@@ -1,6 +1,4 @@
 import logo from './avanade_logo.png';
-import logo from './logo192.png';
-import logo from './logo512.png';
 import './App.css';
 import { useEffect, useState } from 'react'
 import axios from 'axios'; 
