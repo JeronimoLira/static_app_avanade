@@ -25,7 +25,7 @@ function App() {
         <p>Academia Avanade +50</p>
         <a
           className="App-link"
-          href="https://github.com/mrdouglasmorais"
+          href="https://github.com/JeronimoLira"
           target="_blank"
           rel="noopener noreferrer"
         >
